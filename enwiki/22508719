@@ -1,0 +1,197 @@
+{
+  "title": "John Byabagambi",
+  "pageID": 22508719,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "People from Ibanda District",
+    "Members of the Parliament of Uganda",
+    "Government ministers of Uganda",
+    "National Resistance Movement politicians",
+    "People from Western Region, Uganda",
+    "21st-century Ugandan politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Byabagambi (born 8 May 1958) is a Ugandan engineer and politician.",
+              "links": [
+                {
+                  "text": "Ugandan",
+                  "type": "internal",
+                  "page": "Uganda"
+                },
+                {
+                  "text": "engineer",
+                  "type": "internal",
+                  "page": "engineer"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "John Byabagambi"
+                ]
+              }
+            },
+            {
+              "text": "He is the Cabinet Minister for Karamoja Affairs, in the Cabinet of Uganda.",
+              "links": [
+                {
+                  "text": "Cabinet Minister for Karamoja Affairs",
+                  "type": "internal",
+                  "page": "Karamoja"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Uganda"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed to that position on 6 June 2016."
+            },
+            {
+              "text": "He previously served as Minister of Works and Transport between March 2015 and June 2016, replacing Abraham Byandala who was appointed Minister Without Portfolio.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abraham Byandala"
+                },
+                {
+                  "text": "Minister Without Portfolio",
+                  "type": "internal",
+                  "page": "Minister without portfolio"
+                }
+              ]
+            },
+            {
+              "text": "He is also the elected Member of Parliament, representing Ibanda County South, Ibanda District.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Uganda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ibanda District"
+                }
+              ]
+            },
+            {
+              "text": "He was first elected to that position in 2001."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ugandan engineer and politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1958",
+          "month": "5",
+          "day": "8",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "John Byabagambi"
+          },
+          "birth_date": {
+            "text": "May 8, 1958"
+          },
+          "birth_place": {
+            "text": "Uganda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uganda"
+              }
+            ]
+          },
+          "education": {
+            "text": "Moscow State University of Fine Chemical Technologies (Master of Science) Undisclosed University (Bachelor of Science)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moscow State University of Fine Chemical Technologies"
+              },
+              {
+                "text": "Undisclosed University",
+                "type": "internal",
+                "page": "University"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Moscow State University of Fine Chemical Technologies",
+                "Undisclosed University"
+              ]
+            }
+          },
+          "occupation": {
+            "text": "Engineer & Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Engineer"
+              },
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "years_active": {
+            "text": "1990 – present"
+          },
+          "nationality": {
+            "text": "Ugandan"
+          },
+          "citizenship": {
+            "text": "Uganda"
+          },
+          "known_for": {
+            "text": "Politics",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics"
+              }
+            ]
+          },
+          "title": {
+            "text": "Cabinet Minister for Karamoja Affairs",
+            "links": [
+              {
+                "text": "Cabinet Minister for Karamoja Affairs",
+                "type": "internal",
+                "page": "Karamoja"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
