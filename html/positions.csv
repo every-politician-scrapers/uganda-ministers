@@ -1,0 +1,14 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q18204367,President of Uganda,Q1036,Q1036,,Q878204,1963-10-09,,,,President of Uganda
+Q3556899,Vice President of Uganda,,Q1036,,,,,,,Vice President of Uganda
+Q2462330,Prime Minister of Uganda,Q1036,Q1036,,,1962-10-09,,,,Prime Minister of Uganda
+Q104668229,deputy prime minister of Uganda,Q1036,Q1036,,,,,,,
+Q98966310,Finance Minister of Uganda,Q1036,,,,,,,,
+Q24262601,Minister of Foreign Affairs of Uganda,Q1036,Q1036,,,,,,,
+Q99030163,Justice Minister of Uganda,Q1036,,,Q64759951,,,,,
+Q65988793,Minister of Karamoja,Q1036,,,,,,,,
+Q108441300,Minister of Security,Q1036,Q1036,,,,,,,
+Q57771723,"Minister of Trade, Tourism and Industry",,Q1036,,,,,,,
+Q56241849,Minister of Trade and Industry,,,,,,,,,
+Q28404009,Attorney General of Uganda,,Q1036,,,,,,,Attorney General of Uganda
+Q55630465,Prime minister of Rwenzururu,Q1036,Q2795682,,,,,,,Prime minister of Rwenzururu
