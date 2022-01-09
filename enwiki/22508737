@@ -1,0 +1,211 @@
+{
+  "title": "Matia Kasaija",
+  "pageID": 22508737,
+  "categories": [
+    "Living people",
+    "1944 births",
+    "People from Kibaale District",
+    "University of Nairobi alumni",
+    "Members of the Parliament of Uganda",
+    "Finance Ministers of Uganda",
+    "National Resistance Movement politicians",
+    "People from Western Region, Uganda",
+    "21st-century Ugandan politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Matia Kasaija is a Ugandan politician.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Matia Kasaija"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Minister of Finance in Uganda's Cabinet.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance, Planning and Economic Development (Uganda)"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed to that position on 1 March 2015, replacing Maria Kiwanuka, who was appointed to Senior Presidential Advisor for Finance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maria Kiwanuka"
+                }
+              ]
+            },
+            {
+              "text": "From 27 May 2011 until 28 February 2015, he served as the State Minister for Finance (Planning) in the Cabinet of Uganda.",
+              "links": [
+                {
+                  "text": "State Minister for Finance (Planning)",
+                  "type": "internal",
+                  "page": "Finance"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Uganda"
+                }
+              ]
+            },
+            {
+              "text": "He replaced Ephraim Kamuntu, who was promoted to Minister of Tourism.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ephraim Kamuntu"
+                },
+                {
+                  "text": "Minister of Tourism",
+                  "type": "internal",
+                  "page": "Tourism"
+                }
+              ]
+            },
+            {
+              "text": "Before that, he served as the State Minister for Internal Affairs, from 1 June 2006 until May 2011.",
+              "links": [
+                {
+                  "text": "State Minister for Internal Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Internal Affairs"
+                }
+              ]
+            },
+            {
+              "text": "He is also the elected Member of Parliament for \"Buyanja County\", Kibaale District.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Uganda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kibaale District"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ugandan politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2013",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1944",
+          "month": "05",
+          "day": "28",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Matia Kasaija"
+          },
+          "image": {
+            "text": "Matia Kasaija profile.jpg"
+          },
+          "caption": {
+            "text": "Kasaija in 2009"
+          },
+          "birth_date": {
+            "text": "May 28, 1944"
+          },
+          "birth_place": {
+            "text": "Uganda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uganda"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Nairobi  (Bachelor of Commerce)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Nairobi "
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "University of Nairobi "
+              ]
+            }
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "years_active": {
+            "text": "1980 — present"
+          },
+          "nationality": {
+            "text": "Ugandan"
+          },
+          "citizenship": {
+            "text": "Uganda"
+          },
+          "known_for": {
+            "text": "Politics",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics"
+              }
+            ]
+          },
+          "title": {
+            "text": "Ugandan Minister of Finance",
+            "links": [
+              {
+                "text": "Ugandan Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance, Planning and Economic Development (Uganda)"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Ugandan Minister of Finance"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
