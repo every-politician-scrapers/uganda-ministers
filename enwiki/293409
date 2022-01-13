@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Yoweri Kaguta Tibuhaburwa Museveni (born 15 September 1944) is a Ugandan politician and retired senior military officer who is the ninth and current President of Uganda.",
+              "text": "Yoweri Kaguta Tibuhaburwa Museveni (born 15 September 1944) is a Ugandan politician and retired senior military officer who is the eighth and current President of Uganda.",
               "links": [
                 {
                   "text": "Ugandan",
@@ -118,6 +118,9 @@
               "text": "Museveni's rule has been described as dictatorial."
             },
             {
+              "text": "Press has been under the authority of government."
+            },
+            {
               "text": "None of the Ugandan elections of the last 30 years have been found to be free and transparent."
             },
             {
@@ -169,7 +172,7 @@
       "infoboxes": [
         {
           "honorific_prefix": {
-            "text": "General"
+            "text": "Major"
           },
           "name": {
             "text": "Yoweri Kaguta Museveni"
