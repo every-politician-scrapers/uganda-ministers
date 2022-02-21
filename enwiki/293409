@@ -115,7 +115,19 @@
         {
           "sentences": [
             {
-              "text": "Museveni's rule has been described as dictatorial."
+              "text": "Museveni's rule has been described by scholars as competitive authoritarianism or illiberal democracy.",
+              "links": [
+                {
+                  "text": "competitive authoritarianism",
+                  "type": "internal",
+                  "page": "competitive authoritarianism"
+                },
+                {
+                  "text": "illiberal democracy",
+                  "type": "internal",
+                  "page": "illiberal democracy"
+                }
+              ]
             },
             {
               "text": "Press has been under the authority of government."
