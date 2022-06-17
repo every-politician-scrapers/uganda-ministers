@@ -1,3 +1,3 @@
-item,itemLabel,startDate,endDate,psid
-Q11963452,Charles Kikonyogo,1990-05,2000-05,Q11963452-EACA7908-3B32-40B2-9551-1520BDD24798
-Q5373353,Emmanuel Tumusiime-Mutebile,2001,2022-01-23,Q5373353-ac9601ae-4a6a-6e5b-fbd6-2fcd826afd6c
+item,itemLabel,startDate,endDate,sourceDate,psid
+Q11963452,Charles Kikonyogo,1990-05,2000-05,,Q11963452-EACA7908-3B32-40B2-9551-1520BDD24798
+Q5373353,Emmanuel Tumusiime-Mutebile,2001,2022-01-23,,Q5373353-ac9601ae-4a6a-6e5b-fbd6-2fcd826afd6c

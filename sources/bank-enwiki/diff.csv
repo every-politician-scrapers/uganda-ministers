@@ -1,12 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-+++,Joseph Mary Mubiru,,1966,1971
-+++,Moses Ssemyano Kiingi,,1971,1973
-+++,Onegi Obel,Q7093636,1973,1978
-+++,Henry Kajura,Q5724197,1978,1979
-+++,Gideon Nkojo,Q110763406,1979,1980
-+++,Charles Kikonyogo,,1979,
-+++,Leo Kibirango,,1981,1986
-+++,Suleiman Kiggundu,,1986,1990
-+++,Charles Kikonyogo,,1990,2000
----,Charles Kikonyogo,Q11963452,1990-05,2000-05
-->,Emmanuel Tumusiime-Mutebile,Q5373353,2001,2022-01-23->2022
+@@,item,itemlabel,startdate,enddate
++++,,Charles Kikonyogo,1979,
++++,,Charles Kikonyogo,1990,2000
+---,Q11963452,Charles Kikonyogo,1990-05,2000-05
