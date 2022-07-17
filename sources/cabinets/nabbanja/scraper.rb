@@ -21,7 +21,7 @@ class MemberList
     end
 
     field :name do
-      name_node.text.tidy
+      name_node.text.split('(').first.tidy
     end
 
     field :positionID do
