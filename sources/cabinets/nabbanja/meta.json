@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+        "name": "Uganda",
+        "id": "Q1036"
+    },
+    "cabinet": {
+      "id":     "Q113130104",
+      "start":  "2021-06-09",
+      "parent": "Q16148206"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Cabinet_of_Uganda"
+    },
+    "person_description": {
+        "en": "Ugandan politician"
+    }
+}
