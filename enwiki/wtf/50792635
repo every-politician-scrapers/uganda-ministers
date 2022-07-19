@@ -1,0 +1,168 @@
+{
+  "title": "Haruna Kasolo Kyeyune",
+  "pageID": 50792635,
+  "categories": [
+    "Living people",
+    "Rakai District",
+    "Members of the Parliament of Uganda",
+    "Government ministers of Uganda",
+    "People from Rakai District",
+    "People from Central Region, Uganda",
+    "Year of birth missing (living people)",
+    "21st-century Ugandan politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Haruna Kasolo Kyeyune is a Ugandan politician.",
+              "links": [
+                {
+                  "text": "Ugandan",
+                  "type": "internal",
+                  "page": "Uganda"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Haruna Kasolo Kyeyune"
+                ]
+              }
+            },
+            {
+              "text": "He is the State Minister for Microfinance in the Ugandan Cabinet.",
+              "links": [
+                {
+                  "text": "State Minister for Microfinance",
+                  "type": "internal",
+                  "page": "Microfinance"
+                },
+                {
+                  "text": "Ugandan Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Uganda"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed to that position on 6 June 2016."
+            },
+            {
+              "text": "He concurrently served as the elected parliamentary representative for Kyotera County, Rakai District, in the 10th Ugandan Parliament (2016–2021).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rakai District"
+                },
+                {
+                  "text": "10th Ugandan Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Uganda"
+                }
+              ]
+            },
+            {
+              "text": "He was succeeded in parliament by John Paul Mpalanyi Lukwago, a member of the Democratic Party(DP) after the 2021 Uganda general elections."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ugandan politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "use ugandan english"
+        }
+      ],
+      "references": [
+        {
+          "accessdate": "12 June 2016",
+          "date": "6 June 2016",
+          "author": "Uganda State House",
+          "newspaper": "Daily Monitor",
+          "url": "http://www.monitor.co.ug/blob/view/-/3235304/data/1345443/-/3o16hn/-/Museveni%2527s+cabinet.pdf",
+          "title": "Museveni's new cabinet list At 6 June 2016",
+          "location": "Kampala",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "accessdate": "12 June 2016",
+          "date": "12 June 2016",
+          "publisher": "Parliament of Uganda (POU)",
+          "url": "http://www.parliament.go.ug/new/index.php/members-of-parliament/members-of-parliament",
+          "title": "Members of Parliament: 208. Kyeyune Haruna Kasolo, Kyotera County, Rakai District",
+          "location": "Kampala",
+          "last": "POU",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20160527141255/http://www.parliament.go.ug/new/index.php/members-of-parliament/members-of-parliament",
+          "archivedate": "27 May 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Reporter",
+          "first": "Independent",
+          "date": "2021-01-22",
+          "title": "Kyotera NUP, DP supporters released on bail",
+          "url": "https://www.independent.co.ug/kyotera-nup-dp-supporters-released-on-bail/",
+          "access-date": "2022-02-12",
+          "website": "The Independent Uganda",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cabinet of Uganda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Uganda"
+              }
+            ]
+          },
+          {
+            "text": "Parliament of Uganda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliament of Uganda"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uganda-politician-stub"
+        }
+      ]
+    }
+  ]
+}
