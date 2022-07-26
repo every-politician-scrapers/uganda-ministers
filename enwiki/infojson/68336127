@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mayor",
+        "Hoima"
+      ],
+      "stated_as": "Mayor of Hoima"
+    },
+    "P580": "2011-05-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Francis Atugonza"
+    },
+    "P582": "2021-05-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Brian Kaboyo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Uganda"
+      ],
+      "stated_as": "Minister of State for Public Service Uganda"
+    },
+    "P580": "2021-06-21",
+    "P1365": {
+      "links": [
+        "David Karubanga"
+      ],
+      "stated_as": "David Karubanga"
+    }
+  }
+]
