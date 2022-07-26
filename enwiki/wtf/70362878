@@ -127,7 +127,7 @@
               ]
             },
             {
-              "text": "When he was appointed as the Sate Minister, he mentioned that his appointment was an indication that the voice of the people who had been involved in the liberation struggle has finally been heard by the government."
+              "text": "When he was appointed as the State Minister, he mentioned that his appointment was an indication that the voice of the people who had been involved in the liberation struggle has finally been heard by the government."
             }
           ]
         }
@@ -139,6 +139,16 @@
           "access-date": "2022-03-21",
           "website": "The Independent Uganda",
           "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-06-10",
+          "title": "New ministers speak out on their plans",
+          "url": "https://www.monitor.co.ug/uganda/news/national/new-ministers-speak-out-on-their-plans-3432208",
+          "access-date": "2022-07-25",
+          "website": "Monitor",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }

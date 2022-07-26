@@ -36,7 +36,7 @@
               }
             },
             {
-              "text": "He is the current Minister of State for Works and Transport (Works) in the Ugandan Cabinet where he previously served as the State Minister for Relief and Disaster Preparedness since 1st June 2006 In the cabinet reshuffles of 16 February 2009, 27 May 2011, and 2016.",
+              "text": "He is the current Minister of State for Works and Transport (Works) in the Ugandan Cabinet where he previously served as the State Minister for Relief and Disaster Preparedness since 1 June 2006 In the cabinet reshuffles of 16 February 2009, 27 May 2011, and 2016.",
               "links": [
                 {
                   "text": "Ugandan Cabinet",
@@ -72,6 +72,10 @@
         {
           "description": "Ugandan politician",
           "template": "short description"
+        },
+        {
+          "date": "July 2022",
+          "template": "use dmy dates"
         },
         {
           "year": "1964",
