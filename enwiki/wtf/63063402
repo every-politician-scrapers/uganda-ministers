@@ -326,15 +326,13 @@
         {
           "sentences": [
             {
-              "text": "In 2006, he was elected to the 8th Parliament (2006 - 2011), to represent Ajuri County, in Alebtong District.",
-              "formatting": {
-                "italic": [
-                  "Ajuri County"
-                ]
-              }
+              "text": "In 2006, he was elected to the 8th Parliament (2006 - 2011), Youth Member of Parliament representing Northern Uganda."
             },
             {
-              "text": "He has been continuously re-elected in 2011 and 2016 and is the incumbent MP."
+              "text": "In 2011 he was elected to represent the newly created Ajuri County in 9th Parliament."
+            },
+            {
+              "text": "He was re-elected in 2016, 2021 and he is the incumbent MP."
             }
           ]
         },
