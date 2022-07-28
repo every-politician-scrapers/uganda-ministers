@@ -437,7 +437,10 @@
         {
           "sentences": [
             {
-              "text": "On 20 July 2022, Mao was appointed Minister of Justice and Constitutional Affairs by president Museveni in a move that many sparked off debate about his allegiance to the opposition"
+              "text": "On 20 July 2022, Mao was appointed Minister of Justice and Constitutional Affairs by president Museveni in a move that many sparked off debate about his allegiance to the opposition."
+            },
+            {
+              "text": "On 28 July 2022, Mao sworn in at State house entebbe with President Museveni as the main witness."
             }
           ]
         }
@@ -488,6 +491,15 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "date": "2022-07-27",
+          "title": "Norbert Mao Sworn In As Minister For Justice At Entebbe State House {{!}} KAB News",
+          "url": "https://kab.news/norbert-mao-sworn-in-as-minister-for-justice-at-entebbe-state-house/",
+          "access-date": "2022-07-27",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "http://whoinafrica.com/person/18",

@@ -22,21 +22,12 @@
         {
           "sentences": [
             {
-              "text": "Denis Hamson Obua (born 6 February 1980), is a Ugandan politician, who serves as the Minister of State for Sports, in the Cabinet of Uganda, effective 14 December 2019.",
+              "text": "Denis Hamson Obua (born 6 February 1980), is a Ugandan politician, who serves as the Government Chief Whip, a position he was appointed to on 21st July 2022.",
               "links": [
                 {
                   "text": "Ugandan",
                   "type": "internal",
                   "page": "Uganda"
-                },
-                {
-                  "text": "Minister of State for Sports",
-                  "type": "internal",
-                  "page": "Ministry of Education and Sports (Uganda)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cabinet of Uganda"
                 }
               ],
               "formatting": {
@@ -46,7 +37,21 @@
               }
             },
             {
-              "text": "He also concurrently serves as the incumbent Member of Parliament representing Ajuri County, Alebtong District, in the 10th Ugandan Parliament (2016 to 2021) and he retained his place in 11th Parliament (2021 to 2026).",
+              "text": "He previously served as Minister of State for Sports, in the Cabinet of Uganda, effective 14 December 2019.",
+              "links": [
+                {
+                  "text": "Minister of State for Sports",
+                  "type": "internal",
+                  "page": "Ministry of Education and Sports (Uganda)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Uganda"
+                }
+              ]
+            },
+            {
+              "text": "He also concurrently serves as the incumbent Member of Parliament representing Ajuri County, Alebtong District in the 11th Parliament (2021 to 2026), a seat he also held in the 10th Parliament (2016 to 2021).",
               "links": [
                 {
                   "text": "incumbent",
@@ -159,18 +164,21 @@
             "text": "Politics"
           },
           "title": {
-            "text": "State Minister for Sports in Uganda's Cabinet",
-            "links": [
-              {
-                "text": "Uganda's Cabinet",
-                "type": "internal",
-                "page": "Cabinet of Uganda"
-              }
-            ]
+            "text": "Government Chief Whip"
           }
         }
       ],
       "references": [
+        {
+          "date": "2022-07-21",
+          "title": "Ogwang replaces Hamson Obua as Sports Minister",
+          "url": "https://www.monitor.co.ug/uganda/sports/other-sport/ogwang-replaces-hamson-obua-as-sports-minister-3887828",
+          "access-date": "2022-07-27",
+          "website": "Monitor",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "url": "https://www.monitor.co.ug/News/National/Museveni-shuffles-Cabinet-drops-Muloni-Nadduli-Ssekandi/688334-5386130-139sq4lz/index.html",
           "title": "Museveni Shuffles Cabinet, Drops Muloni, Appoints Magyezi",
@@ -249,7 +257,7 @@
                   "page": "Diploma"
                 },
                 {
-                  "text": " Certificate in Administrative Law",
+                  "text": "Certificate in Administrative Law",
                   "type": "internal",
                   "page": "Administrative law "
                 },
@@ -281,9 +289,8 @@
               "text": "His Master of Public Administration degree was awarded by Uganda Management Institute in 2016.",
               "links": [
                 {
-                  "text": " Master of Public Administration",
                   "type": "internal",
-                  "page": " Master of Public Administration"
+                  "page": "Master of Public Administration"
                 },
                 {
                   "type": "internal",

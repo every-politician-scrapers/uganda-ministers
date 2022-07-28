@@ -35,12 +35,12 @@
               }
             },
             {
-              "text": "He is the current Minister of State for Economic Monitoring in the Ugandan Cabinet.",
+              "text": "He is the current Minister of State for Sports in the Ugandan Cabinet.",
               "links": [
                 {
-                  "text": "Minister of State for Economic Monitoring",
+                  "text": "Minister of State for Sports",
                   "type": "internal",
-                  "page": "Office of the President (Uganda)"
+                  "page": "Ministry of Education and Sports (Uganda)"
                 },
                 {
                   "text": "Ugandan Cabinet",
@@ -50,7 +50,17 @@
               ]
             },
             {
-              "text": "He was appointed to that position on 14 December 2019."
+              "text": "He was appointed to that position on 22nd July 2022, replacing Denis Obua.",
+              "links": [
+                {
+                  "text": "Denis Obua",
+                  "type": "internal",
+                  "page": "Denis Obua (politician)"
+                }
+              ]
+            },
+            {
+              "text": "Previously, he was the State Minister for Economic Monitoring and had earlier served as the State Minister for Information, Communication, ICT and National Guidance."
             },
             {
               "text": "He is also the elected Member of Parliament for Usuk County in Katakwi District, in the 10th Parliament (2016-2021).",
@@ -144,18 +154,23 @@
             "text": "Politics"
           },
           "title": {
-            "text": "Minister of State for Economic Monitoring | a member of the National Task Force COVID19",
-            "links": [
-              {
-                "text": "Minister of State for Economic Monitoring | a member of the National Task Force COVID19",
-                "type": "internal",
-                "page": "Office of the President (Uganda)|Minister of State for Economic Monitoring "
-              }
-            ]
+            "text": "Minister of State for Sports"
           }
         }
       ],
       "references": [
+        {
+          "last": "Kazibwe",
+          "first": "Kenneth",
+          "date": "2021-06-25",
+          "title": "Peter Ogwang assumes office as State Minister for Economic Monitoring",
+          "url": "https://nilepost.co.ug/2021/06/25/peter-ogwang-assumes-office-as-state-minister-for-economic-monitoring/",
+          "access-date": "2022-07-27",
+          "website": "Nile Post",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "url": "http://www.newvision.co.ug/new_vision/news/1512132/museveni-shuffles-cabinet",
           "title": "Museveni Reshuffles Cabinet",
