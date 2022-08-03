@@ -1,0 +1,683 @@
+{
+  "title": "David Bahati",
+  "pageID": 24716064,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Alumni of Cardiff University",
+    "Alumni of the University of Manchester",
+    "Makerere University alumni",
+    "National Resistance Movement politicians",
+    "People from Kabale District",
+    "Wharton School of the University of Pennsylvania alumni",
+    "Ugandan accountants",
+    "People from Western Region, Uganda",
+    "Members of the Parliament of Uganda",
+    "21st-century Ugandan politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David Bahati (born 8 June 1973) is a Ugandan accountant and politician.",
+              "links": [
+                {
+                  "text": "Ugandan",
+                  "type": "internal",
+                  "page": "Uganda"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "David Bahati"
+                ]
+              }
+            },
+            {
+              "text": "He is the Minister of State for Trade, Industry and Cooperatives in the Cabinet of Uganda.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Uganda"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed to that position in a cabinet reshuffle on 9 June 2021."
+            },
+            {
+              "text": "He was previously the Minister of State for Finance replacing Matia Kasaija.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Matia Kasaija"
+                }
+              ]
+            },
+            {
+              "text": "He is a Member of Parliament for the constituency of Ndorwa West, Kabale District, in the Parliament of Uganda and is a member of the National Resistance Movement, the ruling party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kabale District"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Uganda"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Resistance Movement"
+                }
+              ]
+            },
+            {
+              "text": "He is chief of the Scout Board of Uganda.",
+              "links": [
+                {
+                  "text": "Scout Board of Uganda",
+                  "type": "internal",
+                  "page": "The Uganda Scouts Association"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ugandan accountant and politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "March 2015",
+          "template": "engvarb"
+        },
+        {
+          "date": "March 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1973",
+          "month": "08",
+          "day": "06",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "David Bahati"
+          },
+          "birth_date": {
+            "text": "August 6, 1973"
+          },
+          "birth_place": {
+            "text": "Ndorwa, Kabale District, Uganda"
+          },
+          "nationality": {
+            "text": "Ugandan"
+          },
+          "alma_mater": {
+            "text": "Makerere University (Bachelor of Commerce) Cardiff University (Master of Business Administration) Association of Chartered Certified Accountants (Fellow of the Association of Chartered Certified Accountant)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Makerere University"
+              },
+              {
+                "type": "internal",
+                "page": "Cardiff University"
+              },
+              {
+                "type": "internal",
+                "page": "Association of Chartered Certified Accountants"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Makerere University",
+                "Cardiff University",
+                "Association of Chartered Certified Accountants"
+              ]
+            }
+          },
+          "occupation": {
+            "text": "Accountant and politician"
+          },
+          "years_active": {
+            "text": "1996 – present"
+          },
+          "title": {
+            "text": "Minister of State for Trade, Industry and Cooperatives Cabinet of Uganda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Uganda"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bloomberg.com/news/articles/2015-03-01/uganda-s-museveni-promotes-matia-kasaija-to-finance-minister",
+          "title": "Uganda's Museveni Promotes Matia Kasaija To Finance Minister",
+          "accessdate": "2 March 2015",
+          "date": "1 March 2015",
+          "first": "David",
+          "last": "Malingha",
+          "publisher": "Bloomberg News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Early Day Motion 874",
+          "url": "http://edmi.parliament.uk/EDMi/EDMDetails.aspx?EDMID=40483&Session=903",
+          "publisher": "UK Parliament",
+          "date": "22 February 2010",
+          "access-date": "16 April 2010",
+          "archive-url": "https://web.archive.org/web/20100423145348/http://edmi.parliament.uk/EDMi/EDMDetails.aspx?EDMID=40483&SESSION=903",
+          "archive-date": "23 April 2010",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Full Cabinet List As At 1 March 2015",
+          "accessdate": "1 March 2015",
+          "url": "http://www.monitor.co.ug/blob/view/-/2639388/data/956667/-/oq6gpdz/-/cabinet.pdf",
+          "newspaper": "Daily Monitor (Kampala)",
+          "last": "Uganda State House",
+          "date": "1 March 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Parliament of Uganda",
+          "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=339&const=Ndorwa+County+West&dist_id=55&distname=Kabale",
+          "access-date": "3 October 2011",
+          "archive-url": "https://web.archive.org/web/20110716111330/http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=339&const=Ndorwa+County+West&dist_id=55&distname=Kabale",
+          "archive-date": "16 July 2011",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bahati received a Bachelor of Commerce degree from Makerere University, a Master of Business Administration degree from Cardiff University, an executive certificate in strategic management from the Wharton School at the University of Pennsylvania, an executive certificate in campaign leadership from the Leadership Institute, and a diploma in business English from the Manchester Business School.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Commerce"
+                },
+                {
+                  "type": "internal",
+                  "page": "Makerere University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Master of Business Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cardiff University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Wharton School"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Pennsylvania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leadership Institute"
+                },
+                {
+                  "type": "internal",
+                  "page": "Manchester Business School"
+                }
+              ]
+            },
+            {
+              "text": "Carl Cooper, former bishop of St. Davids, said, \"It was wonderful to discover that the local MP, Mr David Bahati, also had a Master's degree from the University of Wales and had spent time studying in Cardiff. Wales’ influence often stretches further than we realise.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carl Cooper"
+                },
+                {
+                  "type": "internal",
+                  "page": "St. Davids"
+                }
+              ]
+            },
+            {
+              "text": "Before entering politics, Bahati was head of finance and administration at Uganda's Population Secretariat."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.churchinwales.org.uk/press/display_press_release.php?prid=4461",
+          "title": "Bishop of St Davids appeals for help for people in Uganda",
+          "publisher": "The Church in Wales",
+          "first": "Anna",
+          "last": "Morrell",
+          "date": "21 June 2007",
+          "access-date": "16 October 2009",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20110607060107/http://www.churchinwales.org.uk/press/display_press_release.php?prid=4461",
+          "archive-date": "7 June 2011",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.walesonline.co.uk/news/local-news/bishop-pours-out-water-life-2252542",
+          "title": "Bishop pours out the waters of life in Africa",
+          "publisher": "Wales online",
+          "date": "19 May 2007",
+          "accessdate": "23 November 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "February 2016",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Introduction of Uganda Anti-Homosexuality Bill",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bahati came to international attention in October 2009 after introducing the Uganda Anti-Homosexuality Bill as a Private Member's Bill on 13 October proposing that a new offence be created in Uganda named \"aggravated homosexuality\" which would be punishable as a capital offence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Uganda Anti-Homosexuality Bill"
+                },
+                {
+                  "type": "internal",
+                  "page": "Private Member's Bill"
+                },
+                {
+                  "text": "homosexuality",
+                  "type": "internal",
+                  "page": "LGBT rights in Uganda"
+                },
+                {
+                  "text": "capital offence",
+                  "type": "internal",
+                  "page": "capital offence"
+                }
+              ]
+            },
+            {
+              "text": "The proposals included plans to introduce the death penalty for gay adults who had sex with those of the same sex under 18, with disabled people, or when the accused party is HIV-positive, or for those previously convicted of homosexuality-related offences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "HIV"
+                }
+              ]
+            },
+            {
+              "text": "Journalist and gay rights activist Jeff Sharlet (winner of the International Gay and Lesbian Human Rights Commission's Outspoken Award) claims that in a private conversation Bahati expressed a desire to \"kill every last gay person.\"",
+              "links": [
+                {
+                  "text": "Jeff Sharlet",
+                  "type": "internal",
+                  "page": "Jeff Sharlet (writer)"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Gay and Lesbian Human Rights Commission"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sharlet suggested that the bill came about as a result of Bahati's membership in the Christian group The Family.",
+              "links": [
+                {
+                  "text": "The Family",
+                  "type": "internal",
+                  "page": "The Family (Christian political organization)"
+                }
+              ]
+            },
+            {
+              "text": "He revealed that Bahati reportedly first floated the idea of the bill (which at that time included the death penalty for homosexual assaults on minors, disabled people, or by knowingly HIV positive men) during The Family's Uganda National Prayer Breakfast in 2008."
+            },
+            {
+              "text": "Bob Hunter, a member of The Family, gave an interview to NPR in December 2009 in which he acknowledged Bahati's connection but argued that no American associates support the bill.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NPR"
+                }
+              ]
+            },
+            {
+              "text": "After news of the gay execution law broke, Bahati was disinvited from the 2010 U.S. National Prayer Breakfast.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "U.S. National Prayer Breakfast"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bahati was interviewed by Rachel Maddow in December 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rachel Maddow"
+                }
+              ]
+            },
+            {
+              "text": "Bahati asserted that $15 million had been invested in Uganda to recruit children."
+            },
+            {
+              "text": "When pressed by Maddow for \"recruitment\" tactics, he stated that \"They go to a school, teach them, entice them with money, to lure them into this practice\"."
+            },
+            {
+              "text": "Bahati asserted that videos are being circulated in Uganda that state that \"a man sleeping with a man is okay,\" which were being used for \"recruitment\"."
+            },
+            {
+              "text": "Maddow challenged this assertion, stating that \"recruitment of children by gays is a common myth in any and all countries that have debated laws like that proposed in Uganda.\""
+            },
+            {
+              "text": "Bahati made clear in the interview that the law he is proposing will go through the democratic process of Uganda and be debated upon."
+            },
+            {
+              "text": "In addition to this, Bahati believes that America should respect its sovereignty as well as the fact that Ugandan law will have jurisdiction on Ugandans only."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 December 2013, the Parliament of Uganda passed the Uganda Anti-Homosexuality Act, 2014 with the death penalty proposal dropped in favour of life in prison.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Uganda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uganda Anti-Homosexuality Act, 2014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The bill was signed into law by the President of Uganda on 24 February 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Uganda"
+                }
+              ]
+            },
+            {
+              "text": "On 1 August 2014, however, the Constitutional Court of Uganda ruled the Act invalid on procedural grounds.",
+              "links": [
+                {
+                  "text": "Constitutional Court of Uganda",
+                  "type": "internal",
+                  "page": "Politics of Uganda",
+                  "anchor": "Judiciary"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.pinknews.co.uk/2009/10/15/ugandan-mp-proposes-that-gays-should-be-executed/",
+          "title": "Ugandan MP proposes that gays should be executed",
+          "publisher": "Pink News",
+          "first": "Jessica",
+          "last": "Geen",
+          "date": "15 October 2009",
+          "accessdate": "16 October 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://news.bbc.co.uk/2/hi/africa/8308912.stm",
+          "title": "Uganda MP urges death for gay sex",
+          "work": "BBC News",
+          "date": "15 October 2009",
+          "accessdate": "16 October 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "A Different Perspective On 'The Family' And Uganda",
+          "url": "https://www.npr.org/templates/story/story.php?storyId=121755993&ps=cprs",
+          "publisher": "NPR",
+          "date": "22 December 2009",
+          "accessdate": "24 December 2009",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Ugandan MPs pass life in jail anti-homosexual law",
+          "url": "https://www.bbc.co.uk/news/world-africa-25463942",
+          "website": "BBC",
+          "accessdate": "12 March 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Uganda's President signs anti-gay bill into law",
+          "url": "http://edition.cnn.com/2014/02/24/world/africa/uganda-anti-gay-bill",
+          "work": "CNN News",
+          "date": "24 February 2014",
+          "accessdate": "24 February 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Museveni signs Uganda anti-gay bill",
+          "url": "http://www.news24.com/Africa/News/Museveni-signs-Uganda-anti-gay-bill-20140224",
+          "work": "NEWS24",
+          "accessdate": "24 February 2014",
+          "date": "24 February 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Finding The Root Of Anti-Gay Sentiment In Uganda",
+          "publisher": "NPR",
+          "date": "25 August 2010",
+          "url": "https://www.npr.org/templates/story/story.php?storyId=129422524",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "The Secret Political Reach Of 'The Family'",
+          "author": "Terry Gross",
+          "newspaper": "Fresh Air from WHYY-FM",
+          "date": "24 November 2009",
+          "url": "https://www.npr.org/templates/story/story.php?storyId=120746516",
+          "quote": "Well, the legislator that introduced the bill, a guy named David Bahati, is a member of The Family. He appears to be a core member of The Family. He works, he organizes their Ugandan National Prayer Breakfast and oversees an African sort of student leadership program designed to create future leaders for Africa, into which The Family has poured millions of dollars working through a very convoluted chain of linkages passing the money over to Uganda.",
+          "at": "22m:02s duration: 30s}} Transcript available at: {{cite web |title=The Secret Political Reach Of 'The Family' |url=https://www.npr.org/templates/transcript/transcript.php?storyId=120746516 |publisher=NPR |accessdate=30 November 2009|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://today.msnbc.msn.com/id/34362943/ns/msnbc_tv-rachel_maddow_show/",
+          "title": "Guests: Jeff Sharlet, etc. Transcript",
+          "work": "The Rachel Maddow Show",
+          "date": "9 December 2009",
+          "publisher": "MSNBC",
+          "accessdate": "23 December 2009",
+          "archive-url": "https://web.archive.org/web/20111110122244/http://today.msnbc.msn.com/id/34362943/ns/msnbc_tv-rachel_maddow_show/",
+          "archive-date": "10 November 2011",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Uganda anti-gay law challenged in court",
+          "url": "https://www.theguardian.com/world/2014/jul/31/uganda-anti-gay-law-constitutional-court",
+          "accessdate": "1 August 2014",
+          "work": "The Guardian",
+          "agency": "AFP",
+          "date": "31 July 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Uganda court annuls anti-gay law",
+          "url": "https://www.bbc.com/news/world-africa-28605400",
+          "accessdate": "1 August 2014",
+          "work": "BBC News",
+          "date": "1 August 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Uganda constitutional court annuls new anti-gay law",
+          "url": "http://www.timeslive.co.za/africa/2014/08/01/uganda-constitutional-court-annuls-new-anti-gay-law",
+          "accessdate": "1 August 2014",
+          "work": "Times LIVE",
+          "agency": "AFP",
+          "date": "1 August 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Kabale District",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kabale District"
+              }
+            ]
+          },
+          {
+            "text": "LGBT social movements",
+            "links": [
+              {
+                "type": "internal",
+                "page": "LGBT social movements"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Information page for Bahati on Ugandan parliament website",
+            "links": [
+              {
+                "text": "Information page for Bahati on Ugandan parliament website",
+                "type": "external",
+                "site": "https://web.archive.org/web/20110716111330/http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=339&const=Ndorwa+County+West&dist_id=55&distname=Kabale"
+              }
+            ]
+          },
+          {
+            "text": "Ugandan media, politicians campaign against homosexuality. Carolyn Dunn, CBC News, last updated 26 November 2010 (includes audio interview with David Bahati).",
+            "links": [
+              {
+                "text": "Ugandan media, politicians campaign against homosexuality. Carolyn Dunn, CBC News, last updated 26 November 2010 (includes audio interview with David Bahati)",
+                "type": "external",
+                "site": "https://www.cbc.ca/news/world/ugandan-media-politicians-campaign-against-homosexuality-1.903185"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
